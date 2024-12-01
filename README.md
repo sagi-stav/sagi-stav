@@ -3,5 +3,4 @@
 Hello! I’m a third-year Computer Science student with a strong passion for learning and exploring new technologies. While I have experience in full-stack development, I’m particularly interested in embedded systems and computer vision. The integration of hardware and software in embedded systems fascinates me, and I’m excited by the potential of computer vision to solve real-world challenges.
 
 ## Skills and Experience
-*⚛️ react
-*💻 JS / HTML / CSS
+⚛️ React 💻 JS / HTML / CSS
